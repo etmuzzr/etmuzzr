@@ -1,7 +1,7 @@
 ## henlo
 
 - current project: who dat pokemon website. you can find that [here](https://etmuzzr.github.io/who-dat-pokemon/)
-- active interest in digital twin technology
+- active interest in digital twin technology 🤨
 - i'm weird and really like learning algorithms 😎
 
 <!--
