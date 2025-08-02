@@ -1,4 +1,8 @@
-## Hi there 👋
+## henlo
+
+- current project: who dat pokemon website. you can find that [here](https://etmuzzr.github.io/who-dat-pokemon/)
+- active interest in digital twin technology
+- i'm weird and really like learning algorithms 😎
 
 <!--
 **etmuzzr/etmuzzr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
